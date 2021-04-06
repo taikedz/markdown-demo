@@ -18,6 +18,8 @@
 
 * What Markdown extras exist
 
+---
+
 ## What is Markdown?
 
 * Plain text
@@ -78,6 +80,8 @@
 
 * In Dev.to
 
+---
+
 ## Where have I seen it before?
 
 * If you used `*omg*` and it appeared as *omg*
@@ -121,6 +125,8 @@
   * Notead++ (just *not* Windows Notepad, please oh gods, no)
 
 * Conversion libraries for programming languages
+
+---
 
 ## Markdown extras
 
