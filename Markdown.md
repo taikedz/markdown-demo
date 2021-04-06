@@ -74,7 +74,7 @@
 
 * In NextCloud
 
-![Nextcloud](nextcloud_edlug.png)
+![Nextcloud](markdown_edlug.png)
 
 * In Dev.to
 
